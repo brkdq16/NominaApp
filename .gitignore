@@ -1,0 +1,15 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración de usuario
+.vs/
+*.user
+*.suo
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Dependencias
+packages/
