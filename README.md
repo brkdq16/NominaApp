@@ -1,4 +1,5 @@
 📌 NominaApp – Sistema de Nómina
+
 📖 Descripción
 
 NominaApp es un sistema de gestión de pagos de empleados desarrollado en C# y .NET 8 siguiendo los principios de Arquitectura Limpia.
